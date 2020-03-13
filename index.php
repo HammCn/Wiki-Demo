@@ -1,2 +1,1 @@
-<?php
-header("Location: /demo");
+<a href="/demo">DEMO</a>
